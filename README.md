@@ -75,10 +75,10 @@ We applied 3 models like-Linear regression,Random Forest,Gradient boosting in st
 
 The tuned Random Forest model slightly improved the performance, but the R² score is still low (0.35), and the RMSE remains high. This suggests that the features in the dataset may not fully capture the variability of the target variable (Sales), or the relationships are highly non-linear and complex.
 
-# Hurrah! You have successfully completed your Machine Learning Capstone Project !!!
-
 Create features that might capture hidden patterns, such as:
 
 Order Month/Year extracted from the Order Date. Profit-to-Sales Ratio: A new feature showing the proportion of profit to sales. Discount Categories: Categorize discounts into bins (e.g., low, medium, high).
 
 That's an excellent result! With an R² score of 0.999 and a very low RMSE (~14.12), the XGBoost model has performed exceptionally well on our dataset. This indicates that the model has captured the patterns in the data accurately, and our sales predictions are now highly reliable.
+
+# Hurrah! You have successfully completed your Machine Learning Capstone Project !!!
