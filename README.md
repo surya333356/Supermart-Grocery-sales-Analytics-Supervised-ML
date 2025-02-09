@@ -1,6 +1,7 @@
 # Supermart-Grocery-sales-Analytics
 
-![image](https://github.com/user-attachments/assets/a25aafb3-1d95-435f-b990-e13122b6b3c0)
+![image](https://github.com/user-attachments/assets/f5abc010-40ef-4227-a75b-a1b8b00132e5)
+
 
 
 # Project Type - EDA/Regression
